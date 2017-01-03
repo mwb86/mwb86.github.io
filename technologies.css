@@ -1,0 +1,32 @@
+div#container {
+  height:200px;
+  width:50%;
+}
+body {
+  background-color: lightgrey;
+}
+    img.a {
+       width: 100px;
+       height:100px;
+       position:fixed;
+     }
+     img.b {
+       width: 140px;
+       height:100px;
+       position:fixed;
+     }
+     img.c {
+       width: 100px;
+       height:100px;
+       position:fixed;
+     }
+     img.d {
+       width: 100px;
+       height:100px;
+       position:fixed;
+     }
+     img.e {
+       width: 100px;
+       height: 100px;
+       position:fixed;
+     }

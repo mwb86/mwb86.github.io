@@ -1,0 +1,19 @@
+img {
+  max-width: 400px;
+  margin: 20px;
+  background-color: lightgrey;
+  opacity: .5;
+}
+img:hover {
+  opacity: 1;
+  transform:scale(1.2,1.2);
+}
+body {
+  display:inline-block;
+  padding: 20px;
+  text-align: center;
+}
+#goback {
+  display:block;
+  text-align: center;
+}
