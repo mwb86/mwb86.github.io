@@ -64,10 +64,12 @@ h3{
   background-color: black;
   animation: pulse 5s ease infinite;
 }
-#towers > a, #rubyApp > a {
+#rubyApp > a {
   color:white;
 }
-
+#towers > a {
+  color:white;
+}
 
 .dropbtn {
     background-color: grey;
