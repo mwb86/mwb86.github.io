@@ -64,7 +64,7 @@ h3{
   background-color: black;
   animation: pulse 5s ease infinite;
 }
-#towers, #rubyApp > a {
+#towers > a, #rubyApp > a {
   color:white;
 }
 
