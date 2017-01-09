@@ -60,11 +60,11 @@ h3{
   text-align: center;
 }
 
-#towers {
+#towers, #rubyApp {
   background-color: black;
   animation: pulse 5s ease infinite;
 }
-#towers > a {
+#towers, #rubyApp > a {
   color:white;
 }
 
